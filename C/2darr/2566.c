@@ -1,4 +1,3 @@
-```C
 #include<stdio.h>
 
 int main()
@@ -25,4 +24,3 @@ int main()
     printf("%d %d\n", a + 1, b + 1);
 
 }
-```
